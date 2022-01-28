@@ -1,4 +1,4 @@
-# css3dphoto
+# css3dphoto（3d相册）
 ## 总结：
 ##### transform：translate(x,y) rotate(180deg) scale() ... 顺序对最后的效果有影响，需要根据需求安排位移和其他属性的顺序；
 ##### 实现暂停动画效果：animation-play-state:paused; 经常和鼠标经过等其他配合使用；
