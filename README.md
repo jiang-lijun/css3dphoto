@@ -19,7 +19,7 @@
 
 # 网页如下：
 
-[css3dphoto](https://jiang-lijun.github.io/css3dphoto/)
+https://zhiyuanda.github.io/css3dphoto/
 
 # 网页代码如下：
 
